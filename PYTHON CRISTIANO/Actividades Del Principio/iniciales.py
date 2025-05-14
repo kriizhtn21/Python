@@ -1,6 +1,0 @@
-print("CCCCCCC    AAAAA ")
-print("C         A     A")
-print("C         AAAAAAA")
-print("C         A     A")
-print("C         A     A")
-print("CCCCCCC   A     A")
